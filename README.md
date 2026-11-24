@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/anushkaaaaaash/Leetcode-practise/tree/master/0098-validate-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/anushkaaaaaash/Leetcode-practise/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/anushkaaaaaash/Leetcode-practise/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/anushkaaaaaash/Leetcode-practise/tree/master/0098-validate-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/anushkaaaaaash/Leetcode-practise/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/anushkaaaaaash/Leetcode-practise/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -18,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/anushkaaaaaash/Leetcode-practise/tree/master/0098-validate-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/anushkaaaaaash/Leetcode-practise/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/anushkaaaaaash/Leetcode-practise/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
@@ -28,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/anushkaaaaaash/Leetcode-practise/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/anushkaaaaaash/Leetcode-practise/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
