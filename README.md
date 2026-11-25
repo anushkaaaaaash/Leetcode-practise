@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anushkaaaaaash/Leetcode-practise/tree/master/0098-validate-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/anushkaaaaaash/Leetcode-practise/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/anushkaaaaaash/Leetcode-practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/anushkaaaaaash/Leetcode-practise/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anushkaaaaaash/Leetcode-practise/tree/master/0098-validate-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/anushkaaaaaash/Leetcode-practise/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/anushkaaaaaash/Leetcode-practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/anushkaaaaaash/Leetcode-practise/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anushkaaaaaash/Leetcode-practise/tree/master/0098-validate-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/anushkaaaaaash/Leetcode-practise/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/anushkaaaaaash/Leetcode-practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/anushkaaaaaash/Leetcode-practise/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -35,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anushkaaaaaash/Leetcode-practise/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/anushkaaaaaash/Leetcode-practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Linked List
 |  |
 | ------- |
