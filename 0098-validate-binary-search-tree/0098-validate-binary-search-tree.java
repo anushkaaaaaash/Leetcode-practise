@@ -32,5 +32,6 @@ class Solution {
 
         return helper(root.left, min, root.val) &&
                helper(root.right, root.val, max);
+            //left -infi - root and right root-infi
     }
 }
